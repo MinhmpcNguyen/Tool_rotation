@@ -1,0 +1,44 @@
+{
+  "source_file": "/Users/Yuki/house-design-protocol/manual_glb_orientation_bundle/catalog_downloads/034fc194-c99c-4ba4-92cb-87660fa26cce.glb",
+  "file_name": "034fc194-c99c-4ba4-92cb-87660fa26cce.glb",
+  "front_axis": "+x",
+  "rotation_deg_offset": 90.0,
+  "rotation_deg_x": 0.0,
+  "rotation_deg_z": 0.0,
+  "quaternion": [
+    0.0,
+    0.7071067812,
+    0.0,
+    0.7071067812
+  ],
+  "preview_override": {
+    "enabled": true,
+    "contexts": [
+      "panel"
+    ],
+    "rotation_deg_offset": 90.0,
+    "rotation_deg_x": 0.0,
+    "rotation_deg_z": 0.0,
+    "notes": "Manual local GLB orientation review."
+  },
+  "orientation_review": {
+    "version": 1,
+    "status": "reviewed",
+    "front_axis": "+x",
+    "rotation_deg_offset": 90.0,
+    "rotation_deg_x": 0.0,
+    "rotation_deg_z": 0.0,
+    "quaternion": [
+      0.0,
+      0.7071067812,
+      0.0,
+      0.7071067812
+    ],
+    "reference_front": "2D plan +Y / 3D scene -Z",
+    "contexts": [
+      "panel"
+    ],
+    "notes": "Manual local GLB orientation review."
+  },
+  "saved_at_utc": "2026-05-18T04:13:20.333431+00:00"
+}

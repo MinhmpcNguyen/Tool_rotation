@@ -1,0 +1,50 @@
+{
+  "source_file": "/Users/Yuki/TKNT/demo_inventory/Group2132577562.glb",
+  "file_name": "Group2132577562.glb",
+  "front_axis": "+z",
+  "rotation_deg_offset": 180.0,
+  "rotation_deg_x": 0.0,
+  "rotation_deg_z": 0.0,
+  "preview_override": {
+    "enabled": true,
+    "contexts": [
+      "panel"
+    ],
+    "rotation_deg_offset": 180.0,
+    "rotation_deg_x": 0.0,
+    "rotation_deg_z": 0.0,
+    "notes": "Manual local GLB orientation review.",
+    "rotation_quaternion_offset": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    }
+  },
+  "orientation_review": {
+    "version": 1,
+    "status": "reviewed",
+    "front_axis": "+z",
+    "rotation_deg_offset": 180.0,
+    "rotation_deg_x": 0.0,
+    "rotation_deg_z": 0.0,
+    "reference_front": "2D plan +Y / 3D scene -Z",
+    "contexts": [
+      "panel"
+    ],
+    "notes": "Manual local GLB orientation review.",
+    "rotation_quaternion_offset": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    }
+  },
+  "saved_at_utc": "2026-05-12T04:56:57.920662+00:00",
+  "rotation_quaternion_offset": {
+    "x": 0.0,
+    "y": 1.0,
+    "z": 0.0,
+    "w": 0.0
+  }
+}

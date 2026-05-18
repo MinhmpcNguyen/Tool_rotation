@@ -1,0 +1,50 @@
+{
+  "source_file": "/Users/Yuki/TKNT/demo_inventory/wardrobe.glb",
+  "file_name": "wardrobe.glb",
+  "front_axis": "+x",
+  "rotation_deg_offset": 90.0,
+  "rotation_deg_x": 0.0,
+  "rotation_deg_z": 0.0,
+  "preview_override": {
+    "enabled": true,
+    "contexts": [
+      "panel"
+    ],
+    "rotation_deg_offset": 90.0,
+    "rotation_deg_x": 0.0,
+    "rotation_deg_z": 0.0,
+    "notes": "Manual local GLB orientation review.",
+    "rotation_quaternion_offset": {
+      "x": 0.0,
+      "y": 0.7071067812,
+      "z": 0.0,
+      "w": 0.7071067812
+    }
+  },
+  "orientation_review": {
+    "version": 1,
+    "status": "reviewed",
+    "front_axis": "+x",
+    "rotation_deg_offset": 90.0,
+    "rotation_deg_x": 0.0,
+    "rotation_deg_z": 0.0,
+    "reference_front": "2D plan +Y / 3D scene -Z",
+    "contexts": [
+      "panel"
+    ],
+    "notes": "Manual local GLB orientation review.",
+    "rotation_quaternion_offset": {
+      "x": 0.0,
+      "y": 0.7071067812,
+      "z": 0.0,
+      "w": 0.7071067812
+    }
+  },
+  "saved_at_utc": "2026-05-12T05:00:10.591761+00:00",
+  "rotation_quaternion_offset": {
+    "x": 0.0,
+    "y": 0.7071067812,
+    "z": 0.0,
+    "w": 0.7071067812
+  }
+}

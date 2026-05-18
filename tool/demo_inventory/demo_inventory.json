@@ -1,0 +1,137 @@
+[
+    {
+        "id": "Group2132577606",
+        "name": "Tủ quần áo Rustic",
+        "category": "storage",
+        "shape": "model",
+        "size": [
+            1600.6484,
+            2394.4648,
+            611.5
+        ],
+        "placementType": "floor",
+        "color": "#7f7f7f",
+        "modelUrl": "/models/Group2132577606.glb",
+        "position": {
+            "x": 244489.625,
+            "y": 1202.4738,
+            "z": 78575.9062
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0.707107,
+            "z": 0,
+            "w": 0.707107
+        },
+        "objectRole": null,
+        "price": "150000000"
+    },
+    {
+        "id": "Group2132577628",
+        "name": "Giường Rustic 1",
+        "category": "bedroom",
+        "shape": "model",
+        "size": [
+            2305.9531,
+            1150.0009,
+            2319.375
+        ],
+        "placementType": "floor",
+        "color": "#7f7f7f",
+        "modelUrl": "/models/Group2132577628.glb",
+        "position": {
+            "x": 246432.6562,
+            "y": 574.9996,
+            "z": 78941.6641
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+        },
+        "objectRole": null,
+        "price": "18000000"
+    },
+    {
+        "id": "Group2132576449",
+        "name": "Tủ nhỏ đa năng Rustic 1",
+        "category": "storage",
+        "shape": "model",
+        "size": [
+            400.625,
+            596.3327,
+            450
+        ],
+        "placementType": "floor",
+        "color": "#7f7f7f",
+        "modelUrl": "/models/Group2132576449.glb",
+        "position": {
+            "x": 247617.6719,
+            "y": 303.4796,
+            "z": 78035.4688
+        },
+        "rotation": {
+            "x": 0,
+            "y": -0.707107,
+            "z": 0,
+            "w": 0.707107
+        },
+        "objectRole": null,
+        "price": "3500000"
+    },
+    {
+        "id": "Group2132576496",
+        "name": "Bàn gỗ làm việc Rustic 1",
+        "category": "tables-chairs",
+        "shape": "model",
+        "size": [
+            599.8906,
+            749.7368,
+            1208
+        ],
+        "placementType": "floor",
+        "color": "#7f7f7f",
+        "modelUrl": "/models/Group2132576496.glb",
+        "position": {
+            "x": 247312.8438,
+            "y": 379.9137,
+            "z": 80809.8438
+        },
+        "rotation": {
+            "x": 0,
+            "y": -0.707107,
+            "z": 0,
+            "w": 0.707107
+        },
+        "objectRole": null,
+        "price": "8500000"
+    },
+    {
+        "id": "Group2132577565",
+        "name": "Ghế tựa gỗ Rustic 1",
+        "category": "tables-chairs",
+        "shape": "model",
+        "size": [
+            511.5938,
+            849.6606,
+            495.8789
+        ],
+        "placementType": "floor",
+        "color": "#7f7f7f",
+        "modelUrl": "/models/Group2132577565.glb",
+        "position": {
+            "x": 247368.3125,
+            "y": 424.953,
+            "z": 80481.3828
+        },
+        "rotation": {
+            "x": 0,
+            "y": -0.216439,
+            "z": 0,
+            "w": 0.976296
+        },
+        "objectRole": null,
+        "price": "1200000"
+    }
+]

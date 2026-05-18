@@ -1,0 +1,29 @@
+{
+  "object_id": "2_Bàn_làm_việc_forest",
+  "name": "Bàn làm việc forest",
+  "catalog_item_id": "2cac619d-e2be-4625-981b-a43c7c2e1973",
+  "model_url": "https://storage.mazig.io/catalog/models/forest-khach/models/forest-khach/Group2132576530.glb",
+  "base_rotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 1.0
+  },
+  "correction_offset_deg": 0.0,
+  "correction_quaternion": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 1.0
+  },
+  "corrected_rotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 1.0
+  },
+  "tilt_x_deg": 0.0,
+  "tilt_z_deg": 0.0,
+  "note": "corrected_rotation is the final quaternion to use for this object. correction_quaternion is what to multiply into catalog defaultRotation.",
+  "saved_at_utc": "2026-05-17T05:13:01.177810+00:00"
+}

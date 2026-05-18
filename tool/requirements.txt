@@ -1,0 +1,2 @@
+# Python 3.10+ is required.
+# No third-party Python packages are needed for this standalone viewer.

@@ -1,0 +1,29 @@
+{
+  "object_id": "4_Kệ_để_đồ",
+  "name": "Kệ để đồ",
+  "catalog_item_id": "a9440cff-173b-4a69-a2b9-dbdc68904e00",
+  "model_url": "https://storage.mazig.io/catalog/models/forest-ngu/shelf.glb",
+  "base_rotation": {
+    "x": 0.0,
+    "y": 0.707106781187,
+    "z": 0.0,
+    "w": -0.707106781187
+  },
+  "correction_offset_deg": 90.0,
+  "correction_quaternion": {
+    "x": 0.0,
+    "y": 0.7071067812,
+    "z": 0.0,
+    "w": 0.7071067812
+  },
+  "corrected_rotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": -1.0
+  },
+  "tilt_x_deg": 0.0,
+  "tilt_z_deg": 0.0,
+  "note": "corrected_rotation is the final quaternion to use for this object. correction_quaternion is what to multiply into catalog defaultRotation.",
+  "saved_at_utc": "2026-05-17T05:13:19.620720+00:00"
+}

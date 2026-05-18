@@ -1,0 +1,408 @@
+{
+    "limit": 50,
+    "offset": 0,
+    "total": 2,
+    "count": 2,
+    "category": null,
+    "items": [
+        {
+            "id": "d597f466-6922-4054-992e-96c32a6a410e",
+            "slug": "forest-ngu-group2132577623",
+            "skuSlug": "group2132577623",
+            "categoryId": "0573b737-a6be-487a-80a6-ee497a56ae6e",
+            "name": "Tủ quần áo gỗ",
+            "nameVn": "Tủ quần áo gỗ",
+            "description": null,
+            "descriptionVn": null,
+            "modelUrl": "/catalog/models/forest-ngu/wardrobe.glb",
+            "thumbnailUrl": "/catalog/images/d597f466-6922-4054-992e-96c32a6a410e.webp",
+            "shapeType": "model",
+            "placementType": "floor",
+            "size": [
+                0.600063,
+                2.399568,
+                1.6
+            ],
+            "colorDefault": "#000000",
+            "brand": null,
+            "priceCents": 1366120,
+            "currency": "VND",
+            "defaultVariantSku": null,
+            "objectRole": null,
+            "defaultRotation": null
+        },
+        {
+            "id": "cd977cab-8184-4667-8f3a-0dda449d19c4",
+            "slug": "flora-master-group2132577940",
+            "skuSlug": "group2132577940",
+            "categoryId": "0573b737-a6be-487a-80a6-ee497a56ae6e",
+            "name": "Tủ quần áo",
+            "nameVn": "Tủ quần áo",
+            "description": null,
+            "descriptionVn": null,
+            "modelUrl": "/catalog/models/flora-master/Group2132577940.glb",
+            "thumbnailUrl": "/catalog/images/cd977cab-8184-4667-8f3a-0dda449d19c4.webp",
+            "shapeType": "model",
+            "placementType": "floor",
+            "size": [
+                2.884753,
+                4.202132,
+                2.340999
+            ],
+            "colorDefault": "#000000",
+            "brand": null,
+            "priceCents": 1051989,
+            "currency": "VND",
+            "defaultVariantSku": null,
+            "objectRole": null,
+            "defaultRotation": null
+        }
+    ]
+}
+{
+    "limit": 50,
+    "offset": 0,
+    "total": 5,
+    "count": 5,
+    "category": null,
+    "items": [
+        {
+            "id": "faecf5e1-ecae-4aff-8634-9c13926b3ac3",
+            "slug": "flora-master-giuong-flora",
+            "skuSlug": "giuong-flora",
+            "categoryId": "003de2a7-8450-4f31-b872-d44ef6b0e291",
+            "name": "Giường",
+            "nameVn": "Giường",
+            "description": null,
+            "descriptionVn": null,
+            "modelUrl": "/catalog/models/flora-master/giuong-flora.glb",
+            "thumbnailUrl": "/catalog/images/faecf5e1-ecae-4aff-8634-9c13926b3ac3.png",
+            "shapeType": "model",
+            "placementType": "floor",
+            "size": [
+                2.176,
+                1.110234,
+                1.904844
+            ],
+            "colorDefault": "#b8e499",
+            "brand": null,
+            "priceCents": 1572490,
+            "currency": "VND",
+            "defaultVariantSku": null,
+            "objectRole": null,
+            "defaultRotation": null
+        },
+        {
+            "id": "088d63ee-5308-4431-927d-426ee45b2183",
+            "slug": "forest-ngu-sidebed_table",
+            "skuSlug": "sidebed_table",
+            "categoryId": "0573b737-a6be-487a-80a6-ee497a56ae6e",
+            "name": "Tủ cạnh giường",
+            "nameVn": "Tủ cạnh giường",
+            "description": null,
+            "descriptionVn": null,
+            "modelUrl": "/catalog/models/forest-ngu/sidebed_table.glb",
+            "thumbnailUrl": "/catalog/images/088d63ee-5308-4431-927d-426ee45b2183.png",
+            "shapeType": "model",
+            "placementType": "floor",
+            "size": [
+                0.45,
+                0.496503,
+                0.45
+            ],
+            "colorDefault": "#3679b3",
+            "brand": null,
+            "priceCents": 515995,
+            "currency": "VND",
+            "defaultVariantSku": null,
+            "objectRole": null,
+            "defaultRotation": null
+        },
+        {
+            "id": "9a92b108-99d8-4efa-874e-d950e77bfeca",
+            "slug": "forest-ngu-xhome-bed",
+            "skuSlug": "xhome-bed",
+            "categoryId": "003de2a7-8450-4f31-b872-d44ef6b0e291",
+            "name": "Giường ngủ",
+            "nameVn": "Giường ngủ",
+            "description": null,
+            "descriptionVn": null,
+            "modelUrl": "/catalog/models/forest-ngu/bed.glb",
+            "thumbnailUrl": "/catalog/images/9a92b108-99d8-4efa-874e-d950e77bfeca.webp",
+            "shapeType": "model",
+            "placementType": "floor",
+            "size": [
+                2.2735625,
+                0.9901748,
+                2.0629062
+            ],
+            "colorDefault": "#795548",
+            "brand": null,
+            "priceCents": 1762496,
+            "currency": "VND",
+            "defaultVariantSku": null,
+            "objectRole": null,
+            "defaultRotation": null
+        },
+        {
+            "id": "2184b661-262b-4065-b7fb-23e1c1284429",
+            "slug": "flora-master-group2132577945",
+            "skuSlug": "group2132577945",
+            "categoryId": "003de2a7-8450-4f31-b872-d44ef6b0e291",
+            "name": "Giường",
+            "nameVn": "Giường",
+            "description": null,
+            "descriptionVn": null,
+            "modelUrl": "/catalog/models/flora-master/Group2132577945.glb",
+            "thumbnailUrl": "/catalog/images/2184b661-262b-4065-b7fb-23e1c1284429.webp",
+            "shapeType": "model",
+            "placementType": "floor",
+            "size": [
+                3.18918,
+                1.436335,
+                2.643314
+            ],
+            "colorDefault": "#000000",
+            "brand": null,
+            "priceCents": 617085,
+            "currency": "VND",
+            "defaultVariantSku": null,
+            "objectRole": null,
+            "defaultRotation": null
+        },
+        {
+            "id": "58fb72b6-bcb0-4fcf-b3e9-f8abf1a6fdf2",
+            "slug": "flora-master-plane001",
+            "skuSlug": "plane001",
+            "categoryId": "a4034ae5-09d4-43de-8c7b-a44679d3080f",
+            "name": "Thảm giường",
+            "nameVn": "Thảm giường",
+            "description": null,
+            "descriptionVn": null,
+            "modelUrl": "/catalog/models/flora-master/Plane001.glb",
+            "thumbnailUrl": "/catalog/images/rustic-khach/58fb72b6-bcb0-4fcf-b3e9-f8abf1a6fdf2.webp",
+            "shapeType": "model",
+            "placementType": "floor",
+            "size": [
+                1.695313,
+                0.010356,
+                2.699344
+            ],
+            "colorDefault": "#e499b8",
+            "brand": null,
+            "priceCents": 1030609,
+            "currency": "VND",
+            "defaultVariantSku": null,
+            "objectRole": null,
+            "defaultRotation": null
+        }
+    ]
+}
+{
+    "limit": 50,
+    "offset": 0,
+    "total": 2,
+    "count": 2,
+    "category": null,
+    "items": [
+        {
+            "id": "1d230753-c396-4ea3-a898-2e6819c4d8d3",
+            "slug": "forest-ngu-group2132577624",
+            "skuSlug": "group2132577624",
+            "categoryId": "06d07a54-e7e8-4b20-9a4e-81d6a75b3e6a",
+            "name": "Bàn làm việc gỗ",
+            "nameVn": "Bàn làm việc gỗ",
+            "description": null,
+            "descriptionVn": null,
+            "modelUrl": "/catalog/models/forest-ngu/desk.glb",
+            "thumbnailUrl": "/catalog/images/1d230753-c396-4ea3-a898-2e6819c4d8d3.webp",
+            "shapeType": "model",
+            "placementType": "floor",
+            "size": [
+                1.200187,
+                0.78,
+                0.5
+            ],
+            "colorDefault": "#000000",
+            "brand": null,
+            "priceCents": 1680598,
+            "currency": "VND",
+            "defaultVariantSku": null,
+            "objectRole": null,
+            "defaultRotation": null
+        },
+        {
+            "id": "f3b6ad39-3db6-484c-8dd3-617f984ca75a",
+            "slug": "forest-ngu-group2132577649",
+            "skuSlug": "group2132577649",
+            "categoryId": "5e8f1ced-6e92-4306-80a7-dbcd349ec21a",
+            "name": "Đèn bàn làm việc",
+            "nameVn": "Đèn bàn làm việc",
+            "description": null,
+            "descriptionVn": null,
+            "modelUrl": "/catalog/models/forest-ngu/table_lamp.glb",
+            "thumbnailUrl": "/catalog/images/f3b6ad39-3db6-484c-8dd3-617f984ca75a.webp",
+            "shapeType": "model",
+            "placementType": null,
+            "size": [
+                0.558453,
+                0.564195,
+                0.358141
+            ],
+            "colorDefault": "#000000",
+            "brand": null,
+            "priceCents": 963041,
+            "currency": "VND",
+            "defaultVariantSku": null,
+            "objectRole": null,
+            "defaultRotation": null
+        }
+    ]
+}{
+    "limit": 50,
+    "offset": 0,
+    "total": 4,
+    "count": 4,
+    "category": null,
+    "items": [
+        {
+            "id": "2cf55bb8-94d5-4223-bb1f-efd0ff6469a3",
+            "slug": "rustic-khach-rustic-khach-group2132577565",
+            "skuSlug": "rustic-khach-group2132577565",
+            "categoryId": "730816cd-af1d-4c19-9102-1fbfa6eab97e",
+            "name": "Ghế tựa Rustic 1",
+            "nameVn": "Ghế tựa Rustic 1",
+            "description": null,
+            "descriptionVn": null,
+            "modelUrl": "/catalog/models/rustic-khach/models/rustic-khach/Group2132577565.glb",
+            "thumbnailUrl": "/catalog/images/rustic-khach/2cf55bb8-94d5-4223-bb1f-efd0ff6469a3.webp",
+            "shapeType": "model",
+            "placementType": "floor",
+            "size": [
+                0.511594,
+                0.849661,
+                0.495883
+            ],
+            "colorDefault": "#000000",
+            "brand": null,
+            "priceCents": 0,
+            "currency": "VND",
+            "defaultVariantSku": null,
+            "objectRole": null,
+            "defaultRotation": null
+        },
+        {
+            "id": "5b3b4c7a-38ed-4bc9-88b3-92855c4b5686",
+            "slug": "rustic-khach-rustic-khach-group2132577564",
+            "skuSlug": "rustic-khach-group2132577564",
+            "categoryId": "730816cd-af1d-4c19-9102-1fbfa6eab97e",
+            "name": "Ghế tựa Rustic 2",
+            "nameVn": "Ghế tựa Rustic 2",
+            "description": null,
+            "descriptionVn": null,
+            "modelUrl": "/catalog/models/rustic-khach/models/rustic-khach/Group2132577564.glb",
+            "thumbnailUrl": "/catalog/images/rustic-khach/5b3b4c7a-38ed-4bc9-88b3-92855c4b5686.webp",
+            "shapeType": "model",
+            "placementType": "floor",
+            "size": [
+                0.511594,
+                0.849661,
+                0.495875
+            ],
+            "colorDefault": "#000000",
+            "brand": null,
+            "priceCents": 0,
+            "currency": "VND",
+            "defaultVariantSku": null,
+            "objectRole": null,
+            "defaultRotation": null
+        },
+        {
+            "id": "98ae7207-176d-4f73-9c40-41493e119e3b",
+            "slug": "rustic-khach-rustic-khach-group2132577562",
+            "skuSlug": "rustic-khach-group2132577562",
+            "categoryId": "730816cd-af1d-4c19-9102-1fbfa6eab97e",
+            "name": "Ghế tựa Rustic 3",
+            "nameVn": "Ghế tựa Rustic 3",
+            "description": null,
+            "descriptionVn": null,
+            "modelUrl": "/catalog/models/rustic-khach/models/rustic-khach/Group2132577562.glb",
+            "thumbnailUrl": "/catalog/images/rustic-khach/98ae7207-176d-4f73-9c40-41493e119e3b.webp",
+            "shapeType": "model",
+            "placementType": "floor",
+            "size": [
+                0.511594,
+                0.849661,
+                0.495875
+            ],
+            "colorDefault": "#000000",
+            "brand": null,
+            "priceCents": 0,
+            "currency": "VND",
+            "defaultVariantSku": null,
+            "objectRole": null,
+            "defaultRotation": null
+        },
+        {
+            "id": "e5a94f1a-9f3d-415f-a47f-82fa985ae6ab",
+            "slug": "rustic-khach-rustic-khach-group2132577563",
+            "skuSlug": "rustic-khach-group2132577563",
+            "categoryId": "730816cd-af1d-4c19-9102-1fbfa6eab97e",
+            "name": "Ghế tựa Rustic 4",
+            "nameVn": "Ghế tựa Rustic 4",
+            "description": null,
+            "descriptionVn": null,
+            "modelUrl": "/catalog/models/rustic-khach/models/rustic-khach/Group2132577563.glb",
+            "thumbnailUrl": "/catalog/images/rustic-khach/e5a94f1a-9f3d-415f-a47f-82fa985ae6ab.webp",
+            "shapeType": "model",
+            "placementType": "floor",
+            "size": [
+                0.511594,
+                0.849661,
+                0.495875
+            ],
+            "colorDefault": "#000000",
+            "brand": null,
+            "priceCents": 0,
+            "currency": "VND",
+            "defaultVariantSku": null,
+            "objectRole": null,
+            "defaultRotation": null
+        }
+    ]
+}
+{
+    "limit": 50,
+    "offset": 0,
+    "total": 1,
+    "count": 1,
+    "category": null,
+    "items": [
+        {
+            "id": "92c665a4-a379-48dc-8117-1474d1a48843",
+            "slug": "forest-khach-forest-khach-group2132577718",
+            "skuSlug": "forest-khach-group2132577718",
+            "categoryId": "003de2a7-8450-4f31-b872-d44ef6b0e291",
+            "name": "Giường forest",
+            "nameVn": "Giường forest",
+            "description": "Giường forest đến từ Phòng khách Forest",
+            "descriptionVn": "Giường forest đến từ Phòng khách Forest",
+            "modelUrl": "/catalog/models/forest-khach/models/forest-khach/Group2132577718.glb",
+            "thumbnailUrl": null,
+            "shapeType": "model",
+            "placementType": "floor",
+            "size": [
+                2.08,
+                0.95,
+                1.68
+            ],
+            "colorDefault": "#000000",
+            "brand": null,
+            "priceCents": 1000000,
+            "currency": "VND",
+            "defaultVariantSku": null,
+            "objectRole": null,
+            "defaultRotation": null
+        }
+    ]
+}
