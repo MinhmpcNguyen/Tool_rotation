@@ -24,7 +24,7 @@ Tool này mở một web viewer local để kiểm tra hướng mặt trước c
 Từ thư mục này:
 
 ```bash
-cd manual_glb_orientation_bundle
+cd tool
 python manual_local_glb_orientation.py
 ```
 
